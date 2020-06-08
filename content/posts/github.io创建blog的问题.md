@@ -7,7 +7,7 @@ draft: false
 
 遇到的mix context 的问题
 ## 问题现象
-![](/images/20200608-1/mix-error.png)
+![](/20200608-1/mix-error.png)
 
 [解决办法](https://help.github.com/en/github/working-with-github-pages/securing-your-github-pages-site-with-https)
 
