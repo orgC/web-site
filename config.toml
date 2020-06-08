@@ -1,4 +1,4 @@
-baseURL = "http://orgC.github.io/"
+baseURL = "https://orgC.github.io/"
 languageCode = "en-us"
 title = "Hello, world"
 theme = "diary"
